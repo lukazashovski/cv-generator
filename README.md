@@ -1,2 +1,3 @@
-# cv-generator
-A CV generator made using React. My first React project of The Odin Project.
+# First Project using React + Vite
+
+I don't have much to say except that this code is probably painful to look at LOL

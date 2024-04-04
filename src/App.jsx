@@ -133,8 +133,8 @@ function App() {
         <div className="header">
           <div className="info">
             <div>
-              <img src="/public/vite.svg" alt="An image of Vite" />
-              <img src="/src/assets/react.svg" alt="An image of React" />
+              <img src="vite.svg" alt="An image of Vite" />
+              <img src="react.svg" alt="An image of React" />
             </div>
             <h1>CV Application</h1>
             <p>
